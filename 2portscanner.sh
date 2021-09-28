@@ -1,4 +1,4 @@
-```
+
 #!/bin/bash
 echo "Select your output file: "
 read outputfile
@@ -16,4 +16,4 @@ for end in {1..254}; do
         done
    done
 done
- ```
+ 
